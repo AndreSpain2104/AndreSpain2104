@@ -1,32 +1,28 @@
-name: Pokémon del día
+import requests
+import random
+import re
 
-on:
-  schedule:
-    - cron: "0 0 * * *"  # todos los días
-  workflow_dispatch:
+# obtener un pokemon aleatorio
+pokemon_id = random.randint(1, 898)  # primera gen hasta 898
+url = f"https://pokeapi.co/api/v2/pokemon/{pokemon_id}"
+data = requests.get(url).json()
 
-permissions:
-  contents: write  
+name = data["name"].capitalize()
+sprite = data["sprites"]["front_default"]
 
-jobs:
-  update-pokemon:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+# actualizar README.md
+with open("README.md", "r", encoding="utf-8") as f:
+    readme = f.read()
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
+new_section = f"![{name}]({sprite})\n\n*" + f"Pokémon del día: **{name}***"
 
-      - name: Run update script
-        run: python update_pokemon.py
+# reemplazar bloque viejo entre <!-- POKEMON --> ... <!-- END POKEMON -->
+readme = re.sub(
+    r"<!-- POKEMON -->.*?<!-- END POKEMON -->",
+    f"<!-- POKEMON -->\n{new_section}\n<!-- END POKEMON -->",
+    readme,
+    flags=re.DOTALL
+)
 
-      - name: Commit changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add README.md
-          git commit -m "🔄 Pokémon actualizado" || echo "No changes to commit"
-          git push
+with open("README.md", "w", encoding="utf-8") as f:
+    f.write(readme)

@@ -20,6 +20,9 @@ jobs:
         with:
           python-version: '3.x'
 
+      - name: Install dependencies
+        run: pip install requests
+
       - name: Run update script
         run: python update_pokemon.py
 
@@ -28,5 +31,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git commit -m "🔄 Pokémon actualizado" || echo "No changes to commit"
+          git commit -m " Pokémon actualizado" || echo "No changes to commit"
           git push

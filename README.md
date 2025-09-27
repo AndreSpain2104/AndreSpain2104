@@ -32,9 +32,4 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 ![Pokemon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png)  
 <!--END_SECTION:pokemon-->
 
-### 🔹 Tarjeta estilo entrenador
-También puedes generar una **Pokémon Trainer Card** con tus stats gamer y tu equipo favorito:  
-👉 [Pokémon Card Maker](https://github.com/lowlighter/metrics)  
-
----
 

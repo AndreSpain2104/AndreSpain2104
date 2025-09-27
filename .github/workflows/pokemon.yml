@@ -3,7 +3,7 @@ name: Pokémon del día
 on:
   schedule:
     - cron: "0 0 * * *"  # Todos los días a medianoche UTC
-  workflow_dispatch:      # También lo puedes correr manualmente
+  workflow_dispatch:      
 
 jobs:
   update-pokemon:
@@ -25,5 +25,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git commit -m "🔄 Pokémon actualizado"
+          git commit -m " Pokémon actualizado"
           git push

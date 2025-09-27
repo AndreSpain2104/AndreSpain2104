@@ -28,8 +28,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 ---
 
 ## 🐾 Pokémon del día  
-<!--START_SECTION:pokemon-->
+<!-- POKEMON -->
 ![Pokemon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png)  
-<!--END_SECTION:pokemon-->
+<!-- END POKEMON -->
+
 
 

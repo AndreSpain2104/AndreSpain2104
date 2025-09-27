@@ -1,0 +1,29 @@
+name: Pokémon del día
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Todos los días a medianoche UTC
+  workflow_dispatch:      # También lo puedes correr manualmente
+
+jobs:
+  update-pokemon:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Run update script
+        run: python update_pokemon.py
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "🔄 Pokémon actualizado"
+          git push

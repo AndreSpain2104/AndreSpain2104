@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Mantine](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/226.png)
+![Reshiram](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/643.png)
 
-*Pokémon del día: **Mantine***
+*Pokémon del día: **Reshiram***
 <!-- END POKEMON -->
 
 

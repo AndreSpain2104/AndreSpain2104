@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Reshiram](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/643.png)
+![Polteageist](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/855.png)
 
-*Pokémon del día: **Reshiram***
+*Pokémon del día: **Polteageist***
 <!-- END POKEMON -->
 
 

@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Polteageist](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/855.png)
+![Beldum](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/374.png)
 
-*Pokémon del día: **Polteageist***
+*Pokémon del día: **Beldum***
 <!-- END POKEMON -->
 
 

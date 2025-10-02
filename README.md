@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Beldum](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/374.png)
+![Hippowdon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/450.png)
 
-*Pokémon del día: **Beldum***
+*Pokémon del día: **Hippowdon***
 <!-- END POKEMON -->
 
 

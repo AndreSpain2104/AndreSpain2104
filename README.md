@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Floette](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/670.png)
+![Pansage](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/511.png)
 
-*Pokémon del día: **Floette***
+*Pokémon del día: **Pansage***
 <!-- END POKEMON -->
 
 

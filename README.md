@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Pansage](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/511.png)
+![Rockruff](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/744.png)
 
-*Pokémon del día: **Pansage***
+*Pokémon del día: **Rockruff***
 <!-- END POKEMON -->
 
 

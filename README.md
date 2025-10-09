@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Marill](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/183.png)
+![Taillow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/276.png)
 
-*Pokémon del día: **Marill***
+*Pokémon del día: **Taillow***
 <!-- END POKEMON -->
 
 

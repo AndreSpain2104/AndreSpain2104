@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Raikou](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/243.png)
+![Rowlet](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/722.png)
 
-*Pokémon del día: **Raikou***
+*Pokémon del día: **Rowlet***
 <!-- END POKEMON -->
 
 

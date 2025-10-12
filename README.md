@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Rowlet](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/722.png)
+![Deerling](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/585.png)
 
-*Pokémon del día: **Rowlet***
+*Pokémon del día: **Deerling***
 <!-- END POKEMON -->
 
 

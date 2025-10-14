@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Delcatty](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/301.png)
+![Aipom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/190.png)
 
-*Pokémon del día: **Delcatty***
+*Pokémon del día: **Aipom***
 <!-- END POKEMON -->
 
 

@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Aipom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/190.png)
+![Swampert](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/260.png)
 
-*Pokémon del día: **Aipom***
+*Pokémon del día: **Swampert***
 <!-- END POKEMON -->
 
 

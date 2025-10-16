@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Swampert](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/260.png)
+![Mareep](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/179.png)
 
-*Pokémon del día: **Swampert***
+*Pokémon del día: **Mareep***
 <!-- END POKEMON -->
 
 

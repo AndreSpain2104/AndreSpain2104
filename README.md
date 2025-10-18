@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Grookey](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/810.png)
+![Lilligant](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/549.png)
 
-*Pokémon del día: **Grookey***
+*Pokémon del día: **Lilligant***
 <!-- END POKEMON -->
 
 

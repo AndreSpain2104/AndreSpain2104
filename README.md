@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Gothita](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/574.png)
+![Haxorus](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/612.png)
 
-*Pokémon del día: **Gothita***
+*Pokémon del día: **Haxorus***
 <!-- END POKEMON -->
 
 

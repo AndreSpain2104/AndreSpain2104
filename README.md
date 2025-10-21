@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Haxorus](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/612.png)
+![Omastar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png)
 
-*Pokémon del día: **Haxorus***
+*Pokémon del día: **Omastar***
 <!-- END POKEMON -->
 
 

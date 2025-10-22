@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Omastar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png)
+![Phanpy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/231.png)
 
-*Pokémon del día: **Omastar***
+*Pokémon del día: **Phanpy***
 <!-- END POKEMON -->
 
 

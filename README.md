@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Phanpy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/231.png)
+![Maractus](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/556.png)
 
-*Pokémon del día: **Phanpy***
+*Pokémon del día: **Maractus***
 <!-- END POKEMON -->
 
 

@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Maractus](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/556.png)
+![Taillow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/276.png)
 
-*Pokémon del día: **Maractus***
+*Pokémon del día: **Taillow***
 <!-- END POKEMON -->
 
 

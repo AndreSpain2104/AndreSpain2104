@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Cacturne](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/332.png)
+![Noctowl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/164.png)
 
-*Pokémon del día: **Cacturne***
+*Pokémon del día: **Noctowl***
 <!-- END POKEMON -->
 
 

@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Eiscue-ice](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/875.png)
+![Vibrava](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/329.png)
 
-*Pokémon del día: **Eiscue-ice***
+*Pokémon del día: **Vibrava***
 <!-- END POKEMON -->
 
 

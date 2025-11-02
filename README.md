@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Vibrava](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/329.png)
+![Venipede](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/543.png)
 
-*Pokémon del día: **Vibrava***
+*Pokémon del día: **Venipede***
 <!-- END POKEMON -->
 
 

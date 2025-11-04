@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Kyurem](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/646.png)
+![Klefki](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/707.png)
 
-*Pokémon del día: **Kyurem***
+*Pokémon del día: **Klefki***
 <!-- END POKEMON -->
 
 

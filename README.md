@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Klefki](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/707.png)
+![Malamar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/687.png)
 
-*Pokémon del día: **Klefki***
+*Pokémon del día: **Malamar***
 <!-- END POKEMON -->
 
 

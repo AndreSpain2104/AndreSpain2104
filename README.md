@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Malamar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/687.png)
+![Skiploom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/188.png)
 
-*Pokémon del día: **Malamar***
+*Pokémon del día: **Skiploom***
 <!-- END POKEMON -->
 
 

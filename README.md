@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Skiploom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/188.png)
+![Toucannon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/733.png)
 
-*Pokémon del día: **Skiploom***
+*Pokémon del día: **Toucannon***
 <!-- END POKEMON -->
 
 

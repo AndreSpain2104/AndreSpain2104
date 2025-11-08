@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Toucannon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/733.png)
+![Farfetchd](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png)
 
-*Pokémon del día: **Toucannon***
+*Pokémon del día: **Farfetchd***
 <!-- END POKEMON -->
 
 

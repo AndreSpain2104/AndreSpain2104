@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Helioptile](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/694.png)
+![Tapu-koko](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/785.png)
 
-*Pokémon del día: **Helioptile***
+*Pokémon del día: **Tapu-koko***
 <!-- END POKEMON -->
 
 

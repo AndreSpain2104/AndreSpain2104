@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Tapu-koko](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/785.png)
+![Mightyena](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/262.png)
 
-*Pokémon del día: **Tapu-koko***
+*Pokémon del día: **Mightyena***
 <!-- END POKEMON -->
 
 

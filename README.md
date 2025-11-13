@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Bunnelby](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/659.png)
+![Registeel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/379.png)
 
-*Pokémon del día: **Bunnelby***
+*Pokémon del día: **Registeel***
 <!-- END POKEMON -->
 
 

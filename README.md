@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Registeel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/379.png)
+![Magikarp](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png)
 
-*Pokémon del día: **Registeel***
+*Pokémon del día: **Magikarp***
 <!-- END POKEMON -->
 
 

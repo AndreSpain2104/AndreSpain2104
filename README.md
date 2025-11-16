@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Nincada](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/290.png)
+![Miltank](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/241.png)
 
-*Pokémon del día: **Nincada***
+*Pokémon del día: **Miltank***
 <!-- END POKEMON -->
 
 

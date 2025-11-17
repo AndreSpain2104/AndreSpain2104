@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Miltank](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/241.png)
+![Abomasnow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/460.png)
 
-*Pokémon del día: **Miltank***
+*Pokémon del día: **Abomasnow***
 <!-- END POKEMON -->
 
 

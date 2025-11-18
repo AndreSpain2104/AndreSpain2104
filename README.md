@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Abomasnow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/460.png)
+![Kirlia](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/281.png)
 
-*Pokémon del día: **Abomasnow***
+*Pokémon del día: **Kirlia***
 <!-- END POKEMON -->
 
 

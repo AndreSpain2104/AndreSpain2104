@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Kirlia](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/281.png)
+![Poliwrath](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png)
 
-*Pokémon del día: **Kirlia***
+*Pokémon del día: **Poliwrath***
 <!-- END POKEMON -->
 
 

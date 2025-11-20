@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Poliwrath](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png)
+![Froslass](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/478.png)
 
-*Pokémon del día: **Poliwrath***
+*Pokémon del día: **Froslass***
 <!-- END POKEMON -->
 
 

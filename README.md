@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Froslass](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/478.png)
+![Grimer](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png)
 
-*Pokémon del día: **Froslass***
+*Pokémon del día: **Grimer***
 <!-- END POKEMON -->
 
 

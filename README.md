@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Grimer](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png)
+![Carracosta](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/565.png)
 
-*Pokémon del día: **Grimer***
+*Pokémon del día: **Carracosta***
 <!-- END POKEMON -->
 
 

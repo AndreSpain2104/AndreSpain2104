@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Carracosta](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/565.png)
+![Mr-mime](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png)
 
-*Pokémon del día: **Carracosta***
+*Pokémon del día: **Mr-mime***
 <!-- END POKEMON -->
 
 

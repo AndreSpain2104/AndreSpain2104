@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Mr-mime](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png)
+![Inteleon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/818.png)
 
-*Pokémon del día: **Mr-mime***
+*Pokémon del día: **Inteleon***
 <!-- END POKEMON -->
 
 

@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Simipour](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/516.png)
+![Gabite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/444.png)
 
-*Pokémon del día: **Simipour***
+*Pokémon del día: **Gabite***
 <!-- END POKEMON -->
 
 

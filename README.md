@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Zygarde-50](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/718.png)
+![Hitmonlee](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png)
 
-*Pokémon del día: **Zygarde-50***
+*Pokémon del día: **Hitmonlee***
 <!-- END POKEMON -->
 
 

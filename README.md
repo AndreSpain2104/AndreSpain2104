@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Hitmonlee](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png)
+![Trevenant](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/709.png)
 
-*Pokémon del día: **Hitmonlee***
+*Pokémon del día: **Trevenant***
 <!-- END POKEMON -->
 
 

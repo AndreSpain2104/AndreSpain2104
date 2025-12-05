@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Graveler](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png)
+![Salazzle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/758.png)
 
-*Pokémon del día: **Graveler***
+*Pokémon del día: **Salazzle***
 <!-- END POKEMON -->
 
 

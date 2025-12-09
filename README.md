@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Gengar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png)
+![Buneary](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/427.png)
 
-*Pokémon del día: **Gengar***
+*Pokémon del día: **Buneary***
 <!-- END POKEMON -->
 
 

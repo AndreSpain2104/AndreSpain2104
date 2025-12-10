@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Buneary](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/427.png)
+![Vanillite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/582.png)
 
-*Pokémon del día: **Buneary***
+*Pokémon del día: **Vanillite***
 <!-- END POKEMON -->
 
 

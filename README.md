@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Vanillite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/582.png)
+![Scraggy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/559.png)
 
-*Pokémon del día: **Vanillite***
+*Pokémon del día: **Scraggy***
 <!-- END POKEMON -->
 
 

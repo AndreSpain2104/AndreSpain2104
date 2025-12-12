@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Scraggy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/559.png)
+![Darmanitan-standard](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/555.png)
 
-*Pokémon del día: **Scraggy***
+*Pokémon del día: **Darmanitan-standard***
 <!-- END POKEMON -->
 
 

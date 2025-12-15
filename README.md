@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Shellder](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png)
+![Galvantula](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/596.png)
 
-*Pokémon del día: **Shellder***
+*Pokémon del día: **Galvantula***
 <!-- END POKEMON -->
 
 

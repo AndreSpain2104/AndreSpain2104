@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Galvantula](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/596.png)
+![Chingling](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/433.png)
 
-*Pokémon del día: **Galvantula***
+*Pokémon del día: **Chingling***
 <!-- END POKEMON -->
 
 

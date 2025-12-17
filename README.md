@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Chingling](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/433.png)
+![Skuntank](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/435.png)
 
-*Pokémon del día: **Chingling***
+*Pokémon del día: **Skuntank***
 <!-- END POKEMON -->
 
 

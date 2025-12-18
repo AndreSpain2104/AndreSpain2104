@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Skuntank](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/435.png)
+![Medicham](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/308.png)
 
-*Pokémon del día: **Skuntank***
+*Pokémon del día: **Medicham***
 <!-- END POKEMON -->
 
 

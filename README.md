@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Medicham](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/308.png)
+![Chandelure](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/609.png)
 
-*Pokémon del día: **Medicham***
+*Pokémon del día: **Chandelure***
 <!-- END POKEMON -->
 
 

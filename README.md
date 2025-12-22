@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Oddish](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png)
+![Grimmsnarl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/861.png)
 
-*Pokémon del día: **Oddish***
+*Pokémon del día: **Grimmsnarl***
 <!-- END POKEMON -->
 
 

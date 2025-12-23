@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Grimmsnarl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/861.png)
+![Remoraid](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/223.png)
 
-*Pokémon del día: **Grimmsnarl***
+*Pokémon del día: **Remoraid***
 <!-- END POKEMON -->
 
 

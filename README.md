@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Remoraid](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/223.png)
+![Makuhita](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/296.png)
 
-*Pokémon del día: **Remoraid***
+*Pokémon del día: **Makuhita***
 <!-- END POKEMON -->
 
 

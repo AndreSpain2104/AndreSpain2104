@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Makuhita](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/296.png)
+![Zacian](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/888.png)
 
-*Pokémon del día: **Makuhita***
+*Pokémon del día: **Zacian***
 <!-- END POKEMON -->
 
 

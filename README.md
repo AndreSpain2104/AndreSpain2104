@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Bronzong](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/437.png)
+![Delcatty](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/301.png)
 
-*Pokémon del día: **Bronzong***
+*Pokémon del día: **Delcatty***
 <!-- END POKEMON -->
 
 

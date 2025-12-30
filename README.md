@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Kangaskhan](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png)
+![Cufant](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/878.png)
 
-*Pokémon del día: **Kangaskhan***
+*Pokémon del día: **Cufant***
 <!-- END POKEMON -->
 
 

@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Cufant](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/878.png)
+![Doublade](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/680.png)
 
-*Pokémon del día: **Cufant***
+*Pokémon del día: **Doublade***
 <!-- END POKEMON -->
 
 

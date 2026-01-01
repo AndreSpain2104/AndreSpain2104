@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Doublade](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/680.png)
+![Bastiodon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/411.png)
 
-*Pokémon del día: **Doublade***
+*Pokémon del día: **Bastiodon***
 <!-- END POKEMON -->
 
 

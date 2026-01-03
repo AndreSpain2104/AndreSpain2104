@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Parasect](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png)
+![Bonsly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/438.png)
 
-*Pokémon del día: **Parasect***
+*Pokémon del día: **Bonsly***
 <!-- END POKEMON -->
 
 

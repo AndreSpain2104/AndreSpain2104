@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Ducklett](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/580.png)
+![Jirachi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/385.png)
 
-*Pokémon del día: **Ducklett***
+*Pokémon del día: **Jirachi***
 <!-- END POKEMON -->
 
 

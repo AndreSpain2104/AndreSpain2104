@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Jirachi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/385.png)
+![Lunatone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/337.png)
 
-*Pokémon del día: **Jirachi***
+*Pokémon del día: **Lunatone***
 <!-- END POKEMON -->
 
 

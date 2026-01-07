@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Lunatone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/337.png)
+![Moltres](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png)
 
-*Pokémon del día: **Lunatone***
+*Pokémon del día: **Moltres***
 <!-- END POKEMON -->
 
 

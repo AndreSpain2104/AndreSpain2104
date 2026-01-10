@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Golett](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/622.png)
+![Ledyba](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/165.png)
 
-*Pokémon del día: **Golett***
+*Pokémon del día: **Ledyba***
 <!-- END POKEMON -->
 
 

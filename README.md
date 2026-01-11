@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Ledyba](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/165.png)
+![Bronzor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/436.png)
 
-*Pokémon del día: **Ledyba***
+*Pokémon del día: **Bronzor***
 <!-- END POKEMON -->
 
 

@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Bronzor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/436.png)
+![Yanmega](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/469.png)
 
-*Pokémon del día: **Bronzor***
+*Pokémon del día: **Yanmega***
 <!-- END POKEMON -->
 
 

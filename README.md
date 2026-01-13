@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Yanmega](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/469.png)
+![Cleffa](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/173.png)
 
-*Pokémon del día: **Yanmega***
+*Pokémon del día: **Cleffa***
 <!-- END POKEMON -->
 
 

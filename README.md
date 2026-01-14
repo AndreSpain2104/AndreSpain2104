@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Cleffa](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/173.png)
+![Magmar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png)
 
-*Pokémon del día: **Cleffa***
+*Pokémon del día: **Magmar***
 <!-- END POKEMON -->
 
 

@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Magmar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png)
+![Zorua](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/570.png)
 
-*Pokémon del día: **Magmar***
+*Pokémon del día: **Zorua***
 <!-- END POKEMON -->
 
 

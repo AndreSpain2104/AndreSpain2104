@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Zorua](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/570.png)
+![Arctovish](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/883.png)
 
-*Pokémon del día: **Zorua***
+*Pokémon del día: **Arctovish***
 <!-- END POKEMON -->
 
 

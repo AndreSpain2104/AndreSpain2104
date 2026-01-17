@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Arctovish](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/883.png)
+![Metang](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/375.png)
 
-*Pokémon del día: **Arctovish***
+*Pokémon del día: **Metang***
 <!-- END POKEMON -->
 
 

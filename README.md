@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Metang](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/375.png)
+![Sandygast](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/769.png)
 
-*Pokémon del día: **Metang***
+*Pokémon del día: **Sandygast***
 <!-- END POKEMON -->
 
 

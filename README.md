@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Vaporeon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png)
+![Latias](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/380.png)
 
-*Pokémon del día: **Vaporeon***
+*Pokémon del día: **Latias***
 <!-- END POKEMON -->
 
 

@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Latias](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/380.png)
+![Pikachu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png)
 
-*Pokémon del día: **Latias***
+*Pokémon del día: **Pikachu***
 <!-- END POKEMON -->
 
 

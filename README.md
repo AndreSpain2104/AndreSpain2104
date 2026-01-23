@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Pikachu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png)
+![Meloetta-aria](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/648.png)
 
-*Pokémon del día: **Pikachu***
+*Pokémon del día: **Meloetta-aria***
 <!-- END POKEMON -->
 
 

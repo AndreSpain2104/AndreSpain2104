@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Slugma](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/218.png)
+![Arbok](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png)
 
-*Pokémon del día: **Slugma***
+*Pokémon del día: **Arbok***
 <!-- END POKEMON -->
 
 

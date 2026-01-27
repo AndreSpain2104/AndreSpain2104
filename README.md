@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Arbok](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png)
+![Ferrothorn](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/598.png)
 
-*Pokémon del día: **Arbok***
+*Pokémon del día: **Ferrothorn***
 <!-- END POKEMON -->
 
 

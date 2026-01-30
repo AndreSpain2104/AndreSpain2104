@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Machamp](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png)
+![Gothita](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/574.png)
 
-*Pokémon del día: **Machamp***
+*Pokémon del día: **Gothita***
 <!-- END POKEMON -->
 
 

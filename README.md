@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Flaaffy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/180.png)
+![Ursaring](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/217.png)
 
-*Pokémon del día: **Flaaffy***
+*Pokémon del día: **Ursaring***
 <!-- END POKEMON -->
 
 

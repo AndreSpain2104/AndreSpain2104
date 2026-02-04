@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Toxtricity-amped](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/849.png)
+![Magikarp](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png)
 
-*Pokémon del día: **Toxtricity-amped***
+*Pokémon del día: **Magikarp***
 <!-- END POKEMON -->
 
 

@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Magikarp](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png)
+![Rattata](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png)
 
-*Pokémon del día: **Magikarp***
+*Pokémon del día: **Rattata***
 <!-- END POKEMON -->
 
 

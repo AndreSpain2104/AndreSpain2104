@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Rattata](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png)
+![Starly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/396.png)
 
-*Pokémon del día: **Rattata***
+*Pokémon del día: **Starly***
 <!-- END POKEMON -->
 
 

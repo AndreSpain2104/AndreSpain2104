@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Machop](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png)
+![Pidgeot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png)
 
-*Pokémon del día: **Machop***
+*Pokémon del día: **Pidgeot***
 <!-- END POKEMON -->
 
 

@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Electrode](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png)
+![Wynaut](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/360.png)
 
-*Pokémon del día: **Electrode***
+*Pokémon del día: **Wynaut***
 <!-- END POKEMON -->
 
 

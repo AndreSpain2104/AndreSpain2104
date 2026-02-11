@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Wynaut](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/360.png)
+![Regirock](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/377.png)
 
-*Pokémon del día: **Wynaut***
+*Pokémon del día: **Regirock***
 <!-- END POKEMON -->
 
 

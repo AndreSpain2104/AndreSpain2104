@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Regirock](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/377.png)
+![Lapras](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png)
 
-*Pokémon del día: **Regirock***
+*Pokémon del día: **Lapras***
 <!-- END POKEMON -->
 
 

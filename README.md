@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Lapras](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png)
+![Victini](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/494.png)
 
-*Pokémon del día: **Lapras***
+*Pokémon del día: **Victini***
 <!-- END POKEMON -->
 
 

@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Victini](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/494.png)
+![Gothorita](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/575.png)
 
-*Pokémon del día: **Victini***
+*Pokémon del día: **Gothorita***
 <!-- END POKEMON -->
 
 

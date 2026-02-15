@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Gothorita](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/575.png)
+![Fennekin](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/653.png)
 
-*Pokémon del día: **Gothorita***
+*Pokémon del día: **Fennekin***
 <!-- END POKEMON -->
 
 

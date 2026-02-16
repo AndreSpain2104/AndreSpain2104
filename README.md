@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Fennekin](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/653.png)
+![Stunky](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/434.png)
 
-*Pokémon del día: **Fennekin***
+*Pokémon del día: **Stunky***
 <!-- END POKEMON -->
 
 

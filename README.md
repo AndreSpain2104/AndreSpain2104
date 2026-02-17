@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Stunky](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/434.png)
+![Snover](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/459.png)
 
-*Pokémon del día: **Stunky***
+*Pokémon del día: **Snover***
 <!-- END POKEMON -->
 
 

@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Wurmple](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/265.png)
+![Servine](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/496.png)
 
-*Pokémon del día: **Wurmple***
+*Pokémon del día: **Servine***
 <!-- END POKEMON -->
 
 

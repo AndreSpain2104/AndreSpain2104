@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Servine](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/496.png)
+![Vanillite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/582.png)
 
-*Pokémon del día: **Servine***
+*Pokémon del día: **Vanillite***
 <!-- END POKEMON -->
 
 

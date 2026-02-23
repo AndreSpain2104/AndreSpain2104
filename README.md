@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Arceus](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/493.png)
+![Shelmet](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/616.png)
 
-*Pokémon del día: **Arceus***
+*Pokémon del día: **Shelmet***
 <!-- END POKEMON -->
 
 

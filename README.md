@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Chesnaught](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/652.png)
+![Rhyhorn](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png)
 
-*Pokémon del día: **Chesnaught***
+*Pokémon del día: **Rhyhorn***
 <!-- END POKEMON -->
 
 

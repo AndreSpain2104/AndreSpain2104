@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Rhyhorn](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png)
+![Typhlosion](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/157.png)
 
-*Pokémon del día: **Rhyhorn***
+*Pokémon del día: **Typhlosion***
 <!-- END POKEMON -->
 
 

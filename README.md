@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Togetic](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/176.png)
+![Cloyster](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png)
 
-*Pokémon del día: **Togetic***
+*Pokémon del día: **Cloyster***
 <!-- END POKEMON -->
 
 

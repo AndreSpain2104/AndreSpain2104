@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Cloyster](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png)
+![Palpitoad](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/536.png)
 
-*Pokémon del día: **Cloyster***
+*Pokémon del día: **Palpitoad***
 <!-- END POKEMON -->
 
 

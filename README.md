@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Palpitoad](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/536.png)
+![Nidoran-m](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png)
 
-*Pokémon del día: **Palpitoad***
+*Pokémon del día: **Nidoran-m***
 <!-- END POKEMON -->
 
 

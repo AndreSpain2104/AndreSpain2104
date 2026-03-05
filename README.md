@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Nidoran-m](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png)
+![Chansey](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png)
 
-*Pokémon del día: **Nidoran-m***
+*Pokémon del día: **Chansey***
 <!-- END POKEMON -->
 
 

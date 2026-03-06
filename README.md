@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Chansey](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png)
+![Sandslash](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png)
 
-*Pokémon del día: **Chansey***
+*Pokémon del día: **Sandslash***
 <!-- END POKEMON -->
 
 

@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Sandslash](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png)
+![Vulpix](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png)
 
-*Pokémon del día: **Sandslash***
+*Pokémon del día: **Vulpix***
 <!-- END POKEMON -->
 
 

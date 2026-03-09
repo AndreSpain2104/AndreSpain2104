@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Pelipper](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/279.png)
+![Giratina-altered](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/487.png)
 
-*Pokémon del día: **Pelipper***
+*Pokémon del día: **Giratina-altered***
 <!-- END POKEMON -->
 
 

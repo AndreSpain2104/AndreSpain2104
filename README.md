@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Giratina-altered](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/487.png)
+![Huntail](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/367.png)
 
-*Pokémon del día: **Giratina-altered***
+*Pokémon del día: **Huntail***
 <!-- END POKEMON -->
 
 

@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Boldore](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/525.png)
+![Probopass](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/476.png)
 
-*Pokémon del día: **Boldore***
+*Pokémon del día: **Probopass***
 <!-- END POKEMON -->
 
 

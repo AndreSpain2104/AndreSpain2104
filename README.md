@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Bewear](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/760.png)
+![Rhydon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png)
 
-*Pokémon del día: **Bewear***
+*Pokémon del día: **Rhydon***
 <!-- END POKEMON -->
 
 

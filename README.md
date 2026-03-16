@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Zarude](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/893.png)
+![Herdier](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/507.png)
 
-*Pokémon del día: **Zarude***
+*Pokémon del día: **Herdier***
 <!-- END POKEMON -->
 
 

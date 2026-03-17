@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Herdier](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/507.png)
+![Pinsir](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png)
 
-*Pokémon del día: **Herdier***
+*Pokémon del día: **Pinsir***
 <!-- END POKEMON -->
 
 

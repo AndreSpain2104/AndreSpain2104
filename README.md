@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Pinsir](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png)
+![Elekid](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/239.png)
 
-*Pokémon del día: **Pinsir***
+*Pokémon del día: **Elekid***
 <!-- END POKEMON -->
 
 

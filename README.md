@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Braviary](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/628.png)
+![Natu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/177.png)
 
-*Pokémon del día: **Braviary***
+*Pokémon del día: **Natu***
 <!-- END POKEMON -->
 
 

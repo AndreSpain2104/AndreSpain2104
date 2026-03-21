@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Natu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/177.png)
+![Qwilfish](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/211.png)
 
-*Pokémon del día: **Natu***
+*Pokémon del día: **Qwilfish***
 <!-- END POKEMON -->
 
 

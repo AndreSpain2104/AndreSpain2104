@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Teddiursa](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/216.png)
+![Beartic](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/614.png)
 
-*Pokémon del día: **Teddiursa***
+*Pokémon del día: **Beartic***
 <!-- END POKEMON -->
 
 

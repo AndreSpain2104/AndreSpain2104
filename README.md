@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Beartic](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/614.png)
+![Skiddo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/672.png)
 
-*Pokémon del día: **Beartic***
+*Pokémon del día: **Skiddo***
 <!-- END POKEMON -->
 
 

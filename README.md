@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Skiddo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/672.png)
+![Corphish](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/341.png)
 
-*Pokémon del día: **Skiddo***
+*Pokémon del día: **Corphish***
 <!-- END POKEMON -->
 
 

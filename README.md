@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Corphish](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/341.png)
+![Blissey](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/242.png)
 
-*Pokémon del día: **Corphish***
+*Pokémon del día: **Blissey***
 <!-- END POKEMON -->
 
 

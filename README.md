@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Nihilego](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/793.png)
+![Psyduck](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png)
 
-*Pokémon del día: **Nihilego***
+*Pokémon del día: **Psyduck***
 <!-- END POKEMON -->
 
 

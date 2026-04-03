@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Psyduck](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png)
+![Sylveon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/700.png)
 
-*Pokémon del día: **Psyduck***
+*Pokémon del día: **Sylveon***
 <!-- END POKEMON -->
 
 

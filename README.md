@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Rhyperior](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/464.png)
+![Kadabra](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png)
 
-*Pokémon del día: **Rhyperior***
+*Pokémon del día: **Kadabra***
 <!-- END POKEMON -->
 
 

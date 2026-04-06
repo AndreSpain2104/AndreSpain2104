@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Kadabra](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png)
+![Mankey](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png)
 
-*Pokémon del día: **Kadabra***
+*Pokémon del día: **Mankey***
 <!-- END POKEMON -->
 
 

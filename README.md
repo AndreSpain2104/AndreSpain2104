@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Mankey](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png)
+![Darumaka](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/554.png)
 
-*Pokémon del día: **Mankey***
+*Pokémon del día: **Darumaka***
 <!-- END POKEMON -->
 
 

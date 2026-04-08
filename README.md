@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Darumaka](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/554.png)
+![Pidgeot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png)
 
-*Pokémon del día: **Darumaka***
+*Pokémon del día: **Pidgeot***
 <!-- END POKEMON -->
 
 

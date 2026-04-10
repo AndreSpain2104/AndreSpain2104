@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Ambipom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/424.png)
+![Flaaffy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/180.png)
 
-*Pokémon del día: **Ambipom***
+*Pokémon del día: **Flaaffy***
 <!-- END POKEMON -->
 
 

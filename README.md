@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Porygon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png)
+![Terrakion](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/639.png)
 
-*Pokémon del día: **Porygon***
+*Pokémon del día: **Terrakion***
 <!-- END POKEMON -->
 
 

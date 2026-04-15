@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Frillish-male](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/592.png)
+![Claydol](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/344.png)
 
-*Pokémon del día: **Frillish-male***
+*Pokémon del día: **Claydol***
 <!-- END POKEMON -->
 
 

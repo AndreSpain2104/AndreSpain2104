@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Wartortle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png)
+![Yamper](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/835.png)
 
-*Pokémon del día: **Wartortle***
+*Pokémon del día: **Yamper***
 <!-- END POKEMON -->
 
 

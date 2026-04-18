@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Yamper](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/835.png)
+![Tsareena](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/763.png)
 
-*Pokémon del día: **Yamper***
+*Pokémon del día: **Tsareena***
 <!-- END POKEMON -->
 
 

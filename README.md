@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Swablu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/333.png)
+![Oshawott](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/501.png)
 
-*Pokémon del día: **Swablu***
+*Pokémon del día: **Oshawott***
 <!-- END POKEMON -->
 
 

@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Oshawott](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/501.png)
+![Flareon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png)
 
-*Pokémon del día: **Oshawott***
+*Pokémon del día: **Flareon***
 <!-- END POKEMON -->
 
 

@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Tapu-fini](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/788.png)
+![Cosmog](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/789.png)
 
-*Pokémon del día: **Tapu-fini***
+*Pokémon del día: **Cosmog***
 <!-- END POKEMON -->
 
 

@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Cosmog](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/789.png)
+![Hoppip](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/187.png)
 
-*Pokémon del día: **Cosmog***
+*Pokémon del día: **Hoppip***
 <!-- END POKEMON -->
 
 

@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Hoppip](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/187.png)
+![Zamazenta](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/889.png)
 
-*Pokémon del día: **Hoppip***
+*Pokémon del día: **Zamazenta***
 <!-- END POKEMON -->
 
 

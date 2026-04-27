@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Zamazenta](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/889.png)
+![Budew](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/406.png)
 
-*Pokémon del día: **Zamazenta***
+*Pokémon del día: **Budew***
 <!-- END POKEMON -->
 
 

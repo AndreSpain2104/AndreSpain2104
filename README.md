@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Pineco](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/204.png)
+![Gigalith](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/526.png)
 
-*Pokémon del día: **Pineco***
+*Pokémon del día: **Gigalith***
 <!-- END POKEMON -->
 
 

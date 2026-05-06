@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Shaymin-land](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/492.png)
+![Scizor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/212.png)
 
-*Pokémon del día: **Shaymin-land***
+*Pokémon del día: **Scizor***
 <!-- END POKEMON -->
 
 

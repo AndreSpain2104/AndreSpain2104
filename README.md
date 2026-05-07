@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Scizor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/212.png)
+![Ponyta](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png)
 
-*Pokémon del día: **Scizor***
+*Pokémon del día: **Ponyta***
 <!-- END POKEMON -->
 
 

@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Chatot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/441.png)
+![Infernape](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/392.png)
 
-*Pokémon del día: **Chatot***
+*Pokémon del día: **Infernape***
 <!-- END POKEMON -->
 
 

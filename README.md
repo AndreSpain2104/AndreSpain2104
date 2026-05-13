@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Calyrex](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/898.png)
+![Hatterene](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/858.png)
 
-*Pokémon del día: **Calyrex***
+*Pokémon del día: **Hatterene***
 <!-- END POKEMON -->
 
 

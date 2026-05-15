@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Drizzile](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/817.png)
+![Spewpa](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/665.png)
 
-*Pokémon del día: **Drizzile***
+*Pokémon del día: **Spewpa***
 <!-- END POKEMON -->
 
 

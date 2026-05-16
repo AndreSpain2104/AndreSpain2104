@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Spewpa](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/665.png)
+![Sunkern](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/191.png)
 
-*Pokémon del día: **Spewpa***
+*Pokémon del día: **Sunkern***
 <!-- END POKEMON -->
 
 

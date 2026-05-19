@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Mudbray](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/749.png)
+![Torkoal](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/324.png)
 
-*Pokémon del día: **Mudbray***
+*Pokémon del día: **Torkoal***
 <!-- END POKEMON -->
 
 

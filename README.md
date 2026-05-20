@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Torkoal](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/324.png)
+![Stantler](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/234.png)
 
-*Pokémon del día: **Torkoal***
+*Pokémon del día: **Stantler***
 <!-- END POKEMON -->
 
 

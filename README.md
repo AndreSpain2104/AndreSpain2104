@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Stantler](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/234.png)
+![Dratini](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png)
 
-*Pokémon del día: **Stantler***
+*Pokémon del día: **Dratini***
 <!-- END POKEMON -->
 
 

@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Dratini](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png)
+![Palossand](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/770.png)
 
-*Pokémon del día: **Dratini***
+*Pokémon del día: **Palossand***
 <!-- END POKEMON -->
 
 

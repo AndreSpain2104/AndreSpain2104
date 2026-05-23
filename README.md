@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Palossand](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/770.png)
+![Ralts](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/280.png)
 
-*Pokémon del día: **Palossand***
+*Pokémon del día: **Ralts***
 <!-- END POKEMON -->
 
 

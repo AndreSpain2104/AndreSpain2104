@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Meltan](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/808.png)
+![Chatot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/441.png)
 
-*Pokémon del día: **Meltan***
+*Pokémon del día: **Chatot***
 <!-- END POKEMON -->
 
 

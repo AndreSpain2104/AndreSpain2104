@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Obstagoon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/862.png)
+![Simisear](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/514.png)
 
-*Pokémon del día: **Obstagoon***
+*Pokémon del día: **Simisear***
 <!-- END POKEMON -->
 
 

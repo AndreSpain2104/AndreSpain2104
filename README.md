@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Spoink](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/325.png)
+![Entei](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/244.png)
 
-*Pokémon del día: **Spoink***
+*Pokémon del día: **Entei***
 <!-- END POKEMON -->
 
 

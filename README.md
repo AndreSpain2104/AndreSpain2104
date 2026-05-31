@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Yveltal](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/717.png)
+![Mesprit](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/481.png)
 
-*Pokémon del día: **Yveltal***
+*Pokémon del día: **Mesprit***
 <!-- END POKEMON -->
 
 

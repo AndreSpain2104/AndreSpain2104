@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Jellicent-male](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/593.png)
+![Cherrim](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/421.png)
 
-*Pokémon del día: **Jellicent-male***
+*Pokémon del día: **Cherrim***
 <!-- END POKEMON -->
 
 

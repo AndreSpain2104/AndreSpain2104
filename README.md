@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Mareep](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/179.png)
+![Centiskorch](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/851.png)
 
-*Pokémon del día: **Mareep***
+*Pokémon del día: **Centiskorch***
 <!-- END POKEMON -->
 
 

@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Centiskorch](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/851.png)
+![Ninjask](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/291.png)
 
-*Pokémon del día: **Centiskorch***
+*Pokémon del día: **Ninjask***
 <!-- END POKEMON -->
 
 

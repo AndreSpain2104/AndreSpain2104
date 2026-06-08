@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Ninjask](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/291.png)
+![Talonflame](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/663.png)
 
-*Pokémon del día: **Ninjask***
+*Pokémon del día: **Talonflame***
 <!-- END POKEMON -->
 
 

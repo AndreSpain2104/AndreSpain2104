@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Talonflame](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/663.png)
+![Venonat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png)
 
-*Pokémon del día: **Talonflame***
+*Pokémon del día: **Venonat***
 <!-- END POKEMON -->
 
 

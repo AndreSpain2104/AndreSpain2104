@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Venonat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png)
+![Copperajah](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/879.png)
 
-*Pokémon del día: **Venonat***
+*Pokémon del día: **Copperajah***
 <!-- END POKEMON -->
 
 

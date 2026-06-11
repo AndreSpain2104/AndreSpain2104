@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Copperajah](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/879.png)
+![Crobat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/169.png)
 
-*Pokémon del día: **Copperajah***
+*Pokémon del día: **Crobat***
 <!-- END POKEMON -->
 
 

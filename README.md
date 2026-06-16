@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Ponyta](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png)
+![Rampardos](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/409.png)
 
-*Pokémon del día: **Ponyta***
+*Pokémon del día: **Rampardos***
 <!-- END POKEMON -->
 
 

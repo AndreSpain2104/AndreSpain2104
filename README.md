@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Duraludon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/884.png)
+![Amoonguss](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/591.png)
 
-*Pokémon del día: **Duraludon***
+*Pokémon del día: **Amoonguss***
 <!-- END POKEMON -->
 
 

@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Amoonguss](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/591.png)
+![Weepinbell](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png)
 
-*Pokémon del día: **Amoonguss***
+*Pokémon del día: **Weepinbell***
 <!-- END POKEMON -->
 
 

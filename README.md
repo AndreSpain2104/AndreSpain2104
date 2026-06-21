@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Weepinbell](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png)
+![Jellicent-male](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/593.png)
 
-*Pokémon del día: **Weepinbell***
+*Pokémon del día: **Jellicent-male***
 <!-- END POKEMON -->
 
 

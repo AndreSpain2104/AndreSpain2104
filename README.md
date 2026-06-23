@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Primarina](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/730.png)
+![Gloom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png)
 
-*Pokémon del día: **Primarina***
+*Pokémon del día: **Gloom***
 <!-- END POKEMON -->
 
 

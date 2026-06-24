@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Gloom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png)
+![Magearna](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/801.png)
 
-*Pokémon del día: **Gloom***
+*Pokémon del día: **Magearna***
 <!-- END POKEMON -->
 
 

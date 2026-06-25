@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Magearna](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/801.png)
+![Sirfetchd](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/865.png)
 
-*Pokémon del día: **Magearna***
+*Pokémon del día: **Sirfetchd***
 <!-- END POKEMON -->
 
 

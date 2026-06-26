@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Sirfetchd](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/865.png)
+![Furret](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/162.png)
 
-*Pokémon del día: **Sirfetchd***
+*Pokémon del día: **Furret***
 <!-- END POKEMON -->
 
 

@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Pidgeot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png)
+![Mesprit](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/481.png)
 
-*Pokémon del día: **Pidgeot***
+*Pokémon del día: **Mesprit***
 <!-- END POKEMON -->
 
 

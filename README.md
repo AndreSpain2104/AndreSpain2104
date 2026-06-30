@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Frogadier](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/657.png)
+![Krokorok](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/552.png)
 
-*Pokémon del día: **Frogadier***
+*Pokémon del día: **Krokorok***
 <!-- END POKEMON -->
 
 

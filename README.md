@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Krokorok](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/552.png)
+![Azelf](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/482.png)
 
-*Pokémon del día: **Krokorok***
+*Pokémon del día: **Azelf***
 <!-- END POKEMON -->
 
 

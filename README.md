@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Huntail](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/367.png)
+![Skitty](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/300.png)
 
-*Pokémon del día: **Huntail***
+*Pokémon del día: **Skitty***
 <!-- END POKEMON -->
 
 

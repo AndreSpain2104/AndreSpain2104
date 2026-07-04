@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Skitty](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/300.png)
+![Chinchou](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/170.png)
 
-*Pokémon del día: **Skitty***
+*Pokémon del día: **Chinchou***
 <!-- END POKEMON -->
 
 

@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Chinchou](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/170.png)
+![Charmeleon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png)
 
-*Pokémon del día: **Chinchou***
+*Pokémon del día: **Charmeleon***
 <!-- END POKEMON -->
 
 

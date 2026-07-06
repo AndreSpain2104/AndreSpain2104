@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Charmeleon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png)
+![Dewgong](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png)
 
-*Pokémon del día: **Charmeleon***
+*Pokémon del día: **Dewgong***
 <!-- END POKEMON -->
 
 

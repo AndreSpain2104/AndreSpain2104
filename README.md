@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Yungoos](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/734.png)
+![Cranidos](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/408.png)
 
-*Pokémon del día: **Yungoos***
+*Pokémon del día: **Cranidos***
 <!-- END POKEMON -->
 
 

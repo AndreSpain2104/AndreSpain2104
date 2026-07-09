@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Cranidos](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/408.png)
+![Spheal](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/363.png)
 
-*Pokémon del día: **Cranidos***
+*Pokémon del día: **Spheal***
 <!-- END POKEMON -->
 
 

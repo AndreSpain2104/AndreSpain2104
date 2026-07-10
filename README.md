@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Spheal](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/363.png)
+![Surskit](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/283.png)
 
-*Pokémon del día: **Spheal***
+*Pokémon del día: **Surskit***
 <!-- END POKEMON -->
 
 

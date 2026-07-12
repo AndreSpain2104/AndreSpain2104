@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Luxio](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/404.png)
+![Diancie](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/719.png)
 
-*Pokémon del día: **Luxio***
+*Pokémon del día: **Diancie***
 <!-- END POKEMON -->
 
 

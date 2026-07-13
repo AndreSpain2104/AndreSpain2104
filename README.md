@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Diancie](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/719.png)
+![Krokorok](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/552.png)
 
-*Pokémon del día: **Diancie***
+*Pokémon del día: **Krokorok***
 <!-- END POKEMON -->
 
 

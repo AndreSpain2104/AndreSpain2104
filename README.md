@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Virizion](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/640.png)
+![Grumpig](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/326.png)
 
-*Pokémon del día: **Virizion***
+*Pokémon del día: **Grumpig***
 <!-- END POKEMON -->
 
 

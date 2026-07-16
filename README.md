@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Grumpig](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/326.png)
+![Armaldo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/348.png)
 
-*Pokémon del día: **Grumpig***
+*Pokémon del día: **Armaldo***
 <!-- END POKEMON -->
 
 

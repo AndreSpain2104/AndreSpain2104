@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Armaldo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/348.png)
+![Ribombee](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/743.png)
 
-*Pokémon del día: **Armaldo***
+*Pokémon del día: **Ribombee***
 <!-- END POKEMON -->
 
 

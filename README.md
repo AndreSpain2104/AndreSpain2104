@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Umbreon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/197.png)
+![Meditite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/307.png)
 
-*Pokémon del día: **Umbreon***
+*Pokémon del día: **Meditite***
 <!-- END POKEMON -->
 
 

@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Meditite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/307.png)
+![Kabutops](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png)
 
-*Pokémon del día: **Meditite***
+*Pokémon del día: **Kabutops***
 <!-- END POKEMON -->
 
 

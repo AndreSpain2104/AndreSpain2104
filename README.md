@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Kabutops](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png)
+![Diggersby](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/660.png)
 
-*Pokémon del día: **Kabutops***
+*Pokémon del día: **Diggersby***
 <!-- END POKEMON -->
 
 

@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Diggersby](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/660.png)
+![Indeedee-male](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/876.png)
 
-*Pokémon del día: **Diggersby***
+*Pokémon del día: **Indeedee-male***
 <!-- END POKEMON -->
 
 

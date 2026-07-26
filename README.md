@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Sigilyph](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/561.png)
+![Reuniclus](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/579.png)
 
-*Pokémon del día: **Sigilyph***
+*Pokémon del día: **Reuniclus***
 <!-- END POKEMON -->
 
 

@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Reuniclus](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/579.png)
+![Chespin](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/650.png)
 
-*Pokémon del día: **Reuniclus***
+*Pokémon del día: **Chespin***
 <!-- END POKEMON -->
 
 

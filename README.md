@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Shieldon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/410.png)
+![Lairon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/305.png)
 
-*Pokémon del día: **Shieldon***
+*Pokémon del día: **Lairon***
 <!-- END POKEMON -->
 
 

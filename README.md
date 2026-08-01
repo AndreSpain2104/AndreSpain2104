@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Lairon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/305.png)
+![Gardevoir](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/282.png)
 
-*Pokémon del día: **Lairon***
+*Pokémon del día: **Gardevoir***
 <!-- END POKEMON -->
 
 

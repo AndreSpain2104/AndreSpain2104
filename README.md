@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Gardevoir](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/282.png)
+![Slowbro](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png)
 
-*Pokémon del día: **Gardevoir***
+*Pokémon del día: **Slowbro***
 <!-- END POKEMON -->
 
 

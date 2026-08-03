@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Slowbro](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png)
+![Skitty](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/300.png)
 
-*Pokémon del día: **Slowbro***
+*Pokémon del día: **Skitty***
 <!-- END POKEMON -->
 
 

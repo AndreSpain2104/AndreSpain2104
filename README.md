@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Weezing](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png)
+![Zigzagoon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/263.png)
 
-*Pokémon del día: **Weezing***
+*Pokémon del día: **Zigzagoon***
 <!-- END POKEMON -->
 
 

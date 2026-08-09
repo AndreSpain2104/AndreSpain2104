@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Carvanha](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/318.png)
+![Mienfoo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/619.png)
 
-*Pokémon del día: **Carvanha***
+*Pokémon del día: **Mienfoo***
 <!-- END POKEMON -->
 
 

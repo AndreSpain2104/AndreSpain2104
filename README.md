@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Mienfoo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/619.png)
+![Mightyena](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/262.png)
 
-*Pokémon del día: **Mienfoo***
+*Pokémon del día: **Mightyena***
 <!-- END POKEMON -->
 
 

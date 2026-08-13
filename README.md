@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Mew](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png)
+![Bellossom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/182.png)
 
-*Pokémon del día: **Mew***
+*Pokémon del día: **Bellossom***
 <!-- END POKEMON -->
 
 

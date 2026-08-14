@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Bellossom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/182.png)
+![Sneasel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/215.png)
 
-*Pokémon del día: **Bellossom***
+*Pokémon del día: **Sneasel***
 <!-- END POKEMON -->
 
 

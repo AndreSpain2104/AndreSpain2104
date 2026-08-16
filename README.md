@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Seviper](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/336.png)
+![Florges](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/671.png)
 
-*Pokémon del día: **Seviper***
+*Pokémon del día: **Florges***
 <!-- END POKEMON -->
 
 

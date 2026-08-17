@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Florges](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/671.png)
+![Camerupt](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/323.png)
 
-*Pokémon del día: **Florges***
+*Pokémon del día: **Camerupt***
 <!-- END POKEMON -->
 
 

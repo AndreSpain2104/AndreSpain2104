@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Camerupt](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/323.png)
+![Comfey](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/764.png)
 
-*Pokémon del día: **Camerupt***
+*Pokémon del día: **Comfey***
 <!-- END POKEMON -->
 
 

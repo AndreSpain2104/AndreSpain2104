@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Dewpider](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/751.png)
+![Minccino](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/572.png)
 
-*Pokémon del día: **Dewpider***
+*Pokémon del día: **Minccino***
 <!-- END POKEMON -->
 
 

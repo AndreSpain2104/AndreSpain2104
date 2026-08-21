@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Minccino](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/572.png)
+![Magby](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/240.png)
 
-*Pokémon del día: **Minccino***
+*Pokémon del día: **Magby***
 <!-- END POKEMON -->
 
 

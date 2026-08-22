@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Magby](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/240.png)
+![Shiinotic](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/756.png)
 
-*Pokémon del día: **Magby***
+*Pokémon del día: **Shiinotic***
 <!-- END POKEMON -->
 
 

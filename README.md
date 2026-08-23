@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Shiinotic](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/756.png)
+![Jangmo-o](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/782.png)
 
-*Pokémon del día: **Shiinotic***
+*Pokémon del día: **Jangmo-o***
 <!-- END POKEMON -->
 
 

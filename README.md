@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Jangmo-o](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/782.png)
+![Magcargo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/219.png)
 
-*Pokémon del día: **Jangmo-o***
+*Pokémon del día: **Magcargo***
 <!-- END POKEMON -->
 
 

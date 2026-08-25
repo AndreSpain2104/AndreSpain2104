@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Magcargo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/219.png)
+![Reshiram](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/643.png)
 
-*Pokémon del día: **Magcargo***
+*Pokémon del día: **Reshiram***
 <!-- END POKEMON -->
 
 

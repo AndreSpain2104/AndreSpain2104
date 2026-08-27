@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Alcremie](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/869.png)
+![Heatmor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/631.png)
 
-*Pokémon del día: **Alcremie***
+*Pokémon del día: **Heatmor***
 <!-- END POKEMON -->
 
 

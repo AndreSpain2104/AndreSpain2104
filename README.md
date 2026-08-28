@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Heatmor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/631.png)
+![Celesteela](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/797.png)
 
-*Pokémon del día: **Heatmor***
+*Pokémon del día: **Celesteela***
 <!-- END POKEMON -->
 
 

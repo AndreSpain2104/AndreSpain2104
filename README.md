@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Celesteela](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/797.png)
+![Gossifleur](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/829.png)
 
-*Pokémon del día: **Celesteela***
+*Pokémon del día: **Gossifleur***
 <!-- END POKEMON -->
 
 

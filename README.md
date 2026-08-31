@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Salazzle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/758.png)
+![Whiscash](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/340.png)
 
-*Pokémon del día: **Salazzle***
+*Pokémon del día: **Whiscash***
 <!-- END POKEMON -->
 
 

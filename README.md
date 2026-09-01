@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Whiscash](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/340.png)
+![Slurpuff](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/685.png)
 
-*Pokémon del día: **Whiscash***
+*Pokémon del día: **Slurpuff***
 <!-- END POKEMON -->
 
 

@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Slurpuff](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/685.png)
+![Relicanth](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/369.png)
 
-*Pokémon del día: **Slurpuff***
+*Pokémon del día: **Relicanth***
 <!-- END POKEMON -->
 
 

@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Relicanth](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/369.png)
+![Gyarados](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png)
 
-*Pokémon del día: **Relicanth***
+*Pokémon del día: **Gyarados***
 <!-- END POKEMON -->
 
 

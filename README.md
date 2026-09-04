@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Gyarados](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png)
+![Luxray](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/405.png)
 
-*Pokémon del día: **Gyarados***
+*Pokémon del día: **Luxray***
 <!-- END POKEMON -->
 
 

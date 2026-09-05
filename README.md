@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Luxray](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/405.png)
+![Vigoroth](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/288.png)
 
-*Pokémon del día: **Luxray***
+*Pokémon del día: **Vigoroth***
 <!-- END POKEMON -->
 
 

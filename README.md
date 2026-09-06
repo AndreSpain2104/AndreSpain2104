@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Vigoroth](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/288.png)
+![Gothita](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/574.png)
 
-*Pokémon del día: **Vigoroth***
+*Pokémon del día: **Gothita***
 <!-- END POKEMON -->
 
 

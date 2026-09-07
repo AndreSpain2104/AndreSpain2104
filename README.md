@@ -1,6 +1,6 @@
 # Hola, soy Andrés España  
 
-Estudiante de **Ciencia de Datos** en la Universidad del Norte (7.º semestre).  
+Profesional en **Ciencia de Datos** de la Universidad del Norte.  
 Apasionado por el **Machine Learning**, el **análisis estadístico** y la **visualización de datos interactiva**.  
 Mi objetivo es transformar datos en **insights valiosos** y aplicar la analítica en áreas como **finanzas** y **salud** para apoyar la toma de decisiones estratégicas.  
 

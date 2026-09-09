@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Bibarel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/400.png)
+![Hawlucha](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/701.png)
 
-*Pokémon del día: **Bibarel***
+*Pokémon del día: **Hawlucha***
 <!-- END POKEMON -->
 
 

@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Magneton](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png)
+![Cherrim](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/421.png)
 
-*Pokémon del día: **Magneton***
+*Pokémon del día: **Cherrim***
 <!-- END POKEMON -->
 
 

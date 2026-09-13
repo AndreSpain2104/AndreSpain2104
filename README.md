@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Cherrim](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/421.png)
+![Buneary](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/427.png)
 
-*Pokémon del día: **Cherrim***
+*Pokémon del día: **Buneary***
 <!-- END POKEMON -->
 
 

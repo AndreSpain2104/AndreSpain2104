@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Gabite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/444.png)
+![Barbaracle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/689.png)
 
-*Pokémon del día: **Gabite***
+*Pokémon del día: **Barbaracle***
 <!-- END POKEMON -->
 
 

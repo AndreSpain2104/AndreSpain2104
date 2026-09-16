@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Barbaracle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/689.png)
+![Blaziken](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/257.png)
 
-*Pokémon del día: **Barbaracle***
+*Pokémon del día: **Blaziken***
 <!-- END POKEMON -->
 
 

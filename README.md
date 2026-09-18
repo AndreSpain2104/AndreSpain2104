@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Shinx](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/403.png)
+![Scyther](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png)
 
-*Pokémon del día: **Shinx***
+*Pokémon del día: **Scyther***
 <!-- END POKEMON -->
 
 

@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Tentacool](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png)
+![Ribombee](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/743.png)
 
-*Pokémon del día: **Tentacool***
+*Pokémon del día: **Ribombee***
 <!-- END POKEMON -->
 
 

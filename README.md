@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Ribombee](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/743.png)
+![Dracovish](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/882.png)
 
-*Pokémon del día: **Ribombee***
+*Pokémon del día: **Dracovish***
 <!-- END POKEMON -->
 
 

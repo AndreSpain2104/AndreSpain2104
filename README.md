@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Minior-red-meteor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/774.png)
+![Sylveon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/700.png)
 
-*Pokémon del día: **Minior-red-meteor***
+*Pokémon del día: **Sylveon***
 <!-- END POKEMON -->
 
 

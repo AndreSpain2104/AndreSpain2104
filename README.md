@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Sylveon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/700.png)
+![Naganadel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/804.png)
 
-*Pokémon del día: **Sylveon***
+*Pokémon del día: **Naganadel***
 <!-- END POKEMON -->
 
 

@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Moltres](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png)
+![Quilava](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/156.png)
 
-*Pokémon del día: **Moltres***
+*Pokémon del día: **Quilava***
 <!-- END POKEMON -->
 
 

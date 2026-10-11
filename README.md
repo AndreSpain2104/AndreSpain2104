@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Silvally](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/773.png)
+![Petilil](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/548.png)
 
-*Pokémon del día: **Silvally***
+*Pokémon del día: **Petilil***
 <!-- END POKEMON -->
 
 

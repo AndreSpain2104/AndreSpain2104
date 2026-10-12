@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Petilil](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/548.png)
+![Gurdurr](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/533.png)
 
-*Pokémon del día: **Petilil***
+*Pokémon del día: **Gurdurr***
 <!-- END POKEMON -->
 
 

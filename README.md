@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Rolycoly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/837.png)
+![Kakuna](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png)
 
-*Pokémon del día: **Rolycoly***
+*Pokémon del día: **Kakuna***
 <!-- END POKEMON -->
 
 

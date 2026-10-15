@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Kakuna](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png)
+![Boldore](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/525.png)
 
-*Pokémon del día: **Kakuna***
+*Pokémon del día: **Boldore***
 <!-- END POKEMON -->
 
 

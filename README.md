@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Dewgong](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png)
+![Spinarak](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/167.png)
 
-*Pokémon del día: **Dewgong***
+*Pokémon del día: **Spinarak***
 <!-- END POKEMON -->
 
 

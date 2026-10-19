@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Surskit](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/283.png)
+![Claydol](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/344.png)
 
-*Pokémon del día: **Surskit***
+*Pokémon del día: **Claydol***
 <!-- END POKEMON -->
 
 

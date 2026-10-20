@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Claydol](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/344.png)
+![Guzzlord](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/799.png)
 
-*Pokémon del día: **Claydol***
+*Pokémon del día: **Guzzlord***
 <!-- END POKEMON -->
 
 

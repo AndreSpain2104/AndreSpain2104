@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Quagsire](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/195.png)
+![Deino](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/633.png)
 
-*Pokémon del día: **Quagsire***
+*Pokémon del día: **Deino***
 <!-- END POKEMON -->
 
 

@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Deino](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/633.png)
+![Slakoth](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/287.png)
 
-*Pokémon del día: **Deino***
+*Pokémon del día: **Slakoth***
 <!-- END POKEMON -->
 
 

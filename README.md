@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Slakoth](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/287.png)
+![Bounsweet](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/761.png)
 
-*Pokémon del día: **Slakoth***
+*Pokémon del día: **Bounsweet***
 <!-- END POKEMON -->
 
 

@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Bounsweet](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/761.png)
+![Reshiram](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/643.png)
 
-*Pokémon del día: **Bounsweet***
+*Pokémon del día: **Reshiram***
 <!-- END POKEMON -->
 
 

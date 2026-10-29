@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Unfezant](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/521.png)
+![Throh](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/538.png)
 
-*Pokémon del día: **Unfezant***
+*Pokémon del día: **Throh***
 <!-- END POKEMON -->
 
 

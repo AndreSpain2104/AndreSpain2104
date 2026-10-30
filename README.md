@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Throh](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/538.png)
+![Seismitoad](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/537.png)
 
-*Pokémon del día: **Throh***
+*Pokémon del día: **Seismitoad***
 <!-- END POKEMON -->
 
 

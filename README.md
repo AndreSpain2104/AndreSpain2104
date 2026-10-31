@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Seismitoad](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/537.png)
+![Heliolisk](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/695.png)
 
-*Pokémon del día: **Seismitoad***
+*Pokémon del día: **Heliolisk***
 <!-- END POKEMON -->
 
 

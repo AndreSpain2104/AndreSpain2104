@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Heliolisk](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/695.png)
+![Aggron](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/306.png)
 
-*Pokémon del día: **Heliolisk***
+*Pokémon del día: **Aggron***
 <!-- END POKEMON -->
 
 

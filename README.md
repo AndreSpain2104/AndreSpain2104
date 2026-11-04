@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Urshifu-single-strike](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/892.png)
+![Zapdos](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png)
 
-*Pokémon del día: **Urshifu-single-strike***
+*Pokémon del día: **Zapdos***
 <!-- END POKEMON -->
 
 

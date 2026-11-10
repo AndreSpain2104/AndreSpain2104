@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Gossifleur](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/829.png)
+![Crobat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/169.png)
 
-*Pokémon del día: **Gossifleur***
+*Pokémon del día: **Crobat***
 <!-- END POKEMON -->
 
 

@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Crobat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/169.png)
+![Granbull](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/210.png)
 
-*Pokémon del día: **Crobat***
+*Pokémon del día: **Granbull***
 <!-- END POKEMON -->
 
 

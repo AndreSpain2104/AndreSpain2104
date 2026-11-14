@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Kubfu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/891.png)
+![Butterfree](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png)
 
-*Pokémon del día: **Kubfu***
+*Pokémon del día: **Butterfree***
 <!-- END POKEMON -->
 
 

@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Noibat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/714.png)
+![Bagon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/371.png)
 
-*Pokémon del día: **Noibat***
+*Pokémon del día: **Bagon***
 <!-- END POKEMON -->
 
 

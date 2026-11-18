@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Growlithe](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png)
+![Togedemaru](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/777.png)
 
-*Pokémon del día: **Growlithe***
+*Pokémon del día: **Togedemaru***
 <!-- END POKEMON -->
 
 

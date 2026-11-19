@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Togedemaru](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/777.png)
+![Combee](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/415.png)
 
-*Pokémon del día: **Togedemaru***
+*Pokémon del día: **Combee***
 <!-- END POKEMON -->
 
 

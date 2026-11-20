@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Combee](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/415.png)
+![Silcoon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/266.png)
 
-*Pokémon del día: **Combee***
+*Pokémon del día: **Silcoon***
 <!-- END POKEMON -->
 
 

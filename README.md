@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Shellos](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/422.png)
+![Entei](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/244.png)
 
-*Pokémon del día: **Shellos***
+*Pokémon del día: **Entei***
 <!-- END POKEMON -->
 
 

@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Entei](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/244.png)
+![Darmanitan-standard](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/555.png)
 
-*Pokémon del día: **Entei***
+*Pokémon del día: **Darmanitan-standard***
 <!-- END POKEMON -->
 
 

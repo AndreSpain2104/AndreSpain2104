@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Darmanitan-standard](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/555.png)
+![Metapod](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png)
 
-*Pokémon del día: **Darmanitan-standard***
+*Pokémon del día: **Metapod***
 <!-- END POKEMON -->
 
 

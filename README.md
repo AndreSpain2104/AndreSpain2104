@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Metapod](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png)
+![Fraxure](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/611.png)
 
-*Pokémon del día: **Metapod***
+*Pokémon del día: **Fraxure***
 <!-- END POKEMON -->
 
 

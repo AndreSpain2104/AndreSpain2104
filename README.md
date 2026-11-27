@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Fraxure](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/611.png)
+![Ledian](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/166.png)
 
-*Pokémon del día: **Fraxure***
+*Pokémon del día: **Ledian***
 <!-- END POKEMON -->
 
 

@@ -29,9 +29,9 @@ Me mantengo en formación constante en temas **machine learning, deep learning, 
 
 ## 🐾 Pokémon del día  
 <!-- POKEMON -->
-![Ledian](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/166.png)
+![Blipbug](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/824.png)
 
-*Pokémon del día: **Ledian***
+*Pokémon del día: **Blipbug***
 <!-- END POKEMON -->
 
 
